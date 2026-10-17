@@ -1,4 +1,4 @@
-# ZMK CONFIG FOR THE LILY58
+# ZMK CONFIG FOR THE LILY58!
 
 This repo is for the Splitkb Aurora Lily58 keyboard with Nice!Nano v2 with YADS (Yet Another Dongle Screen) configuration.
 The main change between the yads repo and my repo is the usage of the central dongle unit. I couldn't manage to pair my left side to the dongle as it was configured on the yads repo.
